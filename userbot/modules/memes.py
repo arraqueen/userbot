@@ -1201,6 +1201,8 @@ CMD_HELP.update({
 \nUsage: Greet everyone!\
 \n\n.coinflip <heads/tails>\
 \nUsage: Flip a coin !!\
+\n\n.iwi\
+\nUsage: IwI\
 \n\n.owo\
 \nUsage: UwU\
 \n\n.react\
